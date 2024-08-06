@@ -1,4 +1,4 @@
-###Resume Categorizer
+### Resume Categorizer
 
 It is a WebApp develop with streamlit library of python.
 
